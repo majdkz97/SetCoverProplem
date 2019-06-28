@@ -1,5 +1,5 @@
 
-#Rita2
+#Rita222
 import random
 class SCP:
       def __init__(self,sizeOfUniversal,countOfSubsets):
